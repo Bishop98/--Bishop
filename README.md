@@ -1,5 +1,5 @@
 # --Bishop
-Reddit Chat bot, interacts with Reddit's sendbird backend
+Reddit Chat bot, interacts with Reddits sendbird backend
 
 
 Note: The websocket package causes an error as is. I've included a fix in the "WebsocketFile" directory.
